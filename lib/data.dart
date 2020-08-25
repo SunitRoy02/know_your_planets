@@ -52,7 +52,9 @@ List<PlanetInfo> planets = [
       description:
       "The fourth planet from the sun is Mars, and it's a cold, desert-like place covered in dust. This dust is made of iron oxides, giving the planet its iconic red hue. Mars shares similarities with Earth: It is rocky, has mountains, valleys and canyons, and storm systems ranging from localized tornado-like dust devils to planet-engulfing dust storms. ",
       images: [
-
+        'https://ewscripps.brightspotcdn.com/dims4/default/1648dc7/2147483647/strip/true/crop/2500x1406+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F5f%2F43%2F4fc45a124c818dc6236d23d5c88c%2Fs116933747.JPG',
+        'https://www.usnews.com/dims4/USNEWS/3aff3f8/2147483647/thumbnail/640x420/quality/85/?url=http%3A%2F%2Fmedia.beam.usnews.com%2Fd3%2F51%2Fdb6b60ee447190f8f6e0df831d40%2F160129-mars-editorial.jpg',
+        'https://s3.amazonaws.com/com.twilio.prod.twilio-docs/original_images/h8izjko1F-KJd0nWj0DcJF3vJ81Fk5wGhd1d3eRE38V9AqDua1SIQWIuicJf_LwtNsJVQfOCN_.png'
       ]),
   PlanetInfo(5,
       name: 'Jupiter',
@@ -60,7 +62,8 @@ List<PlanetInfo> planets = [
       description:
       "The fifth planet from the sun, Jupiter is a giant gas world that is the most massive planet in our solar system — more than twice as massive as all the other planets combined, according to NASA. Its swirling clouds are colorful due to different types of trace gases. And a major feature in its swirling clouds is the Great Red Spot, a giant storm more than 10,000 miles wide. It has raged at more than 400 mph for the last 150 years, at least. Jupiter has a strong magnetic field, and with 75 moons, it looks a bit like a miniature solar system.",
       images: [
-
+        'https://cdn.britannica.com/s:800x1000/66/155966-131-17B5B518/Jupiter.jpg',
+        'https://3.bp.blogspot.com/-JzB2ruOjBOs/WJy8tR_tJSI/AAAAAAAABdA/26gANOQ4Y4IZyMnEGS2L8X-dvhVhGL0ZQCLcB/s1600/jupiter_HD.jpg'
       ]),
   PlanetInfo(6,
       name: 'Saturn',
@@ -68,7 +71,9 @@ List<PlanetInfo> planets = [
       description:
       "The sixth planet from the sun, Saturn is known most for its rings. When polymath Galileo Galilei first studied Saturn in the early 1600s, he thought it was an object with three parts: a planet and two large moons on either side. Not knowing he was seeing a planet with rings, the stumped astronomer entered a small drawing — a symbol with one large circle and two smaller ones — in his notebook, as a noun in a sentence describing his discovery. More than 40 years later, Christiaan Huygens proposed that they were rings. The rings are made of ice and rock and scientists are not yet sure how they formed. The gaseous planet is mostly hydrogen and helium and has numerous moons.",
       images: [
-
+        'https://cdn.britannica.com/00/81400-050-8BBE1CDA/Saturn-rings-composite-images-spacecraft-Cassini-Shadows-October-6-2004.jpg',
+        'https://ichef.bbci.co.uk/news/800/cpsprodpb/3BDB/production/_105232351_saturn.jpg',
+        'https://specials-images.forbesimg.com/imageserve/606191046/960x0.jpg?fit=scale'
       ]),
   PlanetInfo(7,
       name: 'Uranus',
@@ -76,7 +81,9 @@ List<PlanetInfo> planets = [
       description:
       "The seventh planet from the sun, Uranus is an oddball. It has clouds made of hydrogen sulfide, the same chemical that makes rotten eggs smell so foul. It rotates from east to west like Venus. But unlike Venus or any other planet, its equator is nearly at right angles to its orbit — it basically orbits on its side. Astronomers believe an object twice the size of Earth collided with Uranus roughly 4 billion years ago, causing Uranus to tilt. That tilt causes extreme seasons that last 20-plus years, and the sun beats down on one pole or the other for 84 Earth-years at a time. ",
       images: [
-
+        'https://solarstory.net/img/articles/middle/planet-uranus-by-voyager-2-in-1986.jpg',
+        'https://images.ctfassets.net/cnu0m8re1exe/7hQBr1Got3iOOxCn4yJqSy/8ac59ceb4d08d0474a2688ac976b1693/neptune1-1024x727.jpg?w=650&h=433&fit=fill',
+        'https://cdn.spacetelescope.org/archives/images/thumb700x/opo0405f.jpg'
       ]),
   PlanetInfo(8,
       name: 'Neptune',
@@ -84,6 +91,8 @@ List<PlanetInfo> planets = [
       description:
       "The eighth planet from the sun, Neptune is about the size of Uranus and is known for supersonic strong winds. Neptune is far out and cold. The planet is more than 30 times as far from the sun as Earth. Neptune was the first planet predicted to exist by using math, before it was visually detected. Irregularities in the orbit of Uranus led French astronomer Alexis Bouvard to suggest some other planet might be exerting a gravitational tug. German astronomer Johann Galle used calculations to help find Neptune in a telescope. Neptune is about 17 times as massive as Earth and has a rocky core.",
       images: [
-
+        'https://cdn.mos.cms.futurecdn.net/eNTJrysq4A6DqXncBtsRrB-650-80.jpg.webp',
+        'https://www.thestatesman.com/wp-content/uploads/2019/11/iStock-1187258348_ED.jpg',
+        'https://specials-images.forbesimg.com/imageserve/648792456/960x0.jpg?fit=scale'
       ]),
 ];
